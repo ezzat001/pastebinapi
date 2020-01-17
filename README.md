@@ -5,3 +5,27 @@
 [![Downloads](https://img.shields.io/pypi/dm/pastebin)]()
 
 ## **Installation**
+It is recomended to install using Git
+
+We will be developing this Project
+
+```bash
+git clone https://github.com/ezzat001/pastebinapi
+```
+
+<br />
+
+#Documentation
+
+### Table of Contents
+
+- **[Initiate](#initiate)**
+  - [Paste](#paste)
+  - [List Pastes](#excluding-friends)
+  - [Delete Pastes](#ignoring-users)
+
+
+<br />
+
+
+###initiate
