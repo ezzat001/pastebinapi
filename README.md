@@ -78,7 +78,7 @@ api.delete("https://pastebin.com/4HunZo9")
 #or
 api.delete("4HunZo9")
 ```
-if you want check the response 
+if you want to check the response 
 
 ```python3
 r = api.delete("https://pastebin.com/4HunZo9")
