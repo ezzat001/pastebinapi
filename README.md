@@ -82,7 +82,8 @@ if you want check the response
 
 ```python3
 r = api.delete("https://pastebin.com/4HunZo9")
-print(r)```
+print(r)
+```
 
 ```bash
 Paste Removed
